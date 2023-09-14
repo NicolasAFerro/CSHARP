@@ -1,0 +1,14 @@
+C:\Users\Nicolas\documents\fatec\studiesCS\calculator\obj\Debug\net7.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\documents\fatec\studiesCS\calculator\obj\Debug\net7.0\calculator.AssemblyInfoInputs.cache
+C:\Users\Nicolas\documents\fatec\studiesCS\calculator\obj\Debug\net7.0\calculator.AssemblyInfo.cs
+C:\Users\Nicolas\documents\fatec\studiesCS\calculator\obj\Debug\net7.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\fatec\studiesCS\calculator\bin\Debug\net7.0\calculator.exe
+C:\Users\Nicolas\Documents\fatec\studiesCS\calculator\bin\Debug\net7.0\calculator.deps.json
+C:\Users\Nicolas\Documents\fatec\studiesCS\calculator\bin\Debug\net7.0\calculator.runtimeconfig.json
+C:\Users\Nicolas\Documents\fatec\studiesCS\calculator\bin\Debug\net7.0\calculator.dll
+C:\Users\Nicolas\Documents\fatec\studiesCS\calculator\bin\Debug\net7.0\calculator.pdb
+C:\Users\Nicolas\Documents\fatec\studiesCS\calculator\obj\Debug\net7.0\calculator.dll
+C:\Users\Nicolas\Documents\fatec\studiesCS\calculator\obj\Debug\net7.0\refint\calculator.dll
+C:\Users\Nicolas\Documents\fatec\studiesCS\calculator\obj\Debug\net7.0\calculator.pdb
+C:\Users\Nicolas\Documents\fatec\studiesCS\calculator\obj\Debug\net7.0\calculator.genruntimeconfig.cache
+C:\Users\Nicolas\Documents\fatec\studiesCS\calculator\obj\Debug\net7.0\ref\calculator.dll
