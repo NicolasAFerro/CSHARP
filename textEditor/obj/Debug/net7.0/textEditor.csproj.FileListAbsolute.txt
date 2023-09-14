@@ -1,0 +1,14 @@
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\bin\Debug\net7.0\textEditor.exe
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\bin\Debug\net7.0\textEditor.deps.json
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\bin\Debug\net7.0\textEditor.runtimeconfig.json
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\bin\Debug\net7.0\textEditor.dll
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\bin\Debug\net7.0\textEditor.pdb
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\obj\Debug\net7.0\textEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\obj\Debug\net7.0\textEditor.AssemblyInfoInputs.cache
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\obj\Debug\net7.0\textEditor.AssemblyInfo.cs
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\obj\Debug\net7.0\textEditor.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\obj\Debug\net7.0\textEditor.dll
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\obj\Debug\net7.0\refint\textEditor.dll
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\obj\Debug\net7.0\textEditor.pdb
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\obj\Debug\net7.0\textEditor.genruntimeconfig.cache
+C:\Users\Nicolas\documents\fatec\csharp\textEditor\obj\Debug\net7.0\ref\textEditor.dll
