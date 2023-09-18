@@ -1,0 +1,14 @@
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\bin\Debug\net7.0\interpolacao.exe
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\bin\Debug\net7.0\interpolacao.deps.json
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\bin\Debug\net7.0\interpolacao.runtimeconfig.json
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\bin\Debug\net7.0\interpolacao.dll
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\bin\Debug\net7.0\interpolacao.pdb
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\obj\Debug\net7.0\interpolacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\obj\Debug\net7.0\interpolacao.AssemblyInfoInputs.cache
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\obj\Debug\net7.0\interpolacao.AssemblyInfo.cs
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\obj\Debug\net7.0\interpolacao.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\obj\Debug\net7.0\interpolacao.dll
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\obj\Debug\net7.0\refint\interpolacao.dll
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\obj\Debug\net7.0\interpolacao.pdb
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\obj\Debug\net7.0\interpolacao.genruntimeconfig.cache
+C:\Users\Nicolas\documents\fatec\csharp\strings\interpolacao\obj\Debug\net7.0\ref\interpolacao.dll

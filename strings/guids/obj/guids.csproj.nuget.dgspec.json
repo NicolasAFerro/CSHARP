@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\textEditor\\textEditor.csproj": {}
+    "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\guids\\guids.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\textEditor\\textEditor.csproj": {
+    "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\guids\\guids.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\textEditor\\textEditor.csproj",
-        "projectName": "textEditor",
-        "projectPath": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\textEditor\\textEditor.csproj",
+        "projectUniqueName": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\guids\\guids.csproj",
+        "projectName": "guids",
+        "projectPath": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\guids\\guids.csproj",
         "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\textEditor\\obj\\",
+        "outputPath": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\guids\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
