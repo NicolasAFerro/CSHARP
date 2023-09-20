@@ -1,0 +1,14 @@
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\bin\Debug\net7.0\editorHTML.exe
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\bin\Debug\net7.0\editorHTML.deps.json
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\bin\Debug\net7.0\editorHTML.runtimeconfig.json
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\bin\Debug\net7.0\editorHTML.dll
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\bin\Debug\net7.0\editorHTML.pdb
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\obj\Debug\net7.0\editorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\obj\Debug\net7.0\editorHTML.AssemblyInfoInputs.cache
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\obj\Debug\net7.0\editorHTML.AssemblyInfo.cs
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\obj\Debug\net7.0\editorHTML.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\obj\Debug\net7.0\editorHTML.dll
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\obj\Debug\net7.0\refint\editorHTML.dll
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\obj\Debug\net7.0\editorHTML.pdb
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\obj\Debug\net7.0\editorHTML.genruntimeconfig.cache
+C:\Users\Nicolas\documents\fatec\Csharp\editorHtml\obj\Debug\net7.0\ref\editorHTML.dll

@@ -1,0 +1,14 @@
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\bin\Debug\net7.0\indices.exe
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\bin\Debug\net7.0\indices.deps.json
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\bin\Debug\net7.0\indices.runtimeconfig.json
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\bin\Debug\net7.0\indices.dll
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\bin\Debug\net7.0\indices.pdb
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\obj\Debug\net7.0\indices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\obj\Debug\net7.0\indices.AssemblyInfoInputs.cache
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\obj\Debug\net7.0\indices.AssemblyInfo.cs
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\obj\Debug\net7.0\indices.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\obj\Debug\net7.0\indices.dll
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\obj\Debug\net7.0\refint\indices.dll
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\obj\Debug\net7.0\indices.pdb
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\obj\Debug\net7.0\indices.genruntimeconfig.cache
+C:\Users\Nicolas\documents\fatec\Csharp\strings\indices\obj\Debug\net7.0\ref\indices.dll

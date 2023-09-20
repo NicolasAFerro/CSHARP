@@ -1,0 +1,14 @@
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\bin\Debug\net7.0\Manipulacao.exe
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\bin\Debug\net7.0\Manipulacao.deps.json
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\bin\Debug\net7.0\Manipulacao.runtimeconfig.json
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\bin\Debug\net7.0\Manipulacao.dll
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\bin\Debug\net7.0\Manipulacao.pdb
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\obj\Debug\net7.0\Manipulacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\obj\Debug\net7.0\Manipulacao.AssemblyInfoInputs.cache
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\obj\Debug\net7.0\Manipulacao.AssemblyInfo.cs
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\obj\Debug\net7.0\Manipulacao.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\obj\Debug\net7.0\Manipulacao.dll
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\obj\Debug\net7.0\refint\Manipulacao.dll
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\obj\Debug\net7.0\Manipulacao.pdb
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\obj\Debug\net7.0\Manipulacao.genruntimeconfig.cache
+C:\Users\Nicolas\documents\fatec\Csharp\strings\manipulacao\obj\Debug\net7.0\ref\Manipulacao.dll

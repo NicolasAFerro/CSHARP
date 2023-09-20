@@ -1,0 +1,14 @@
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\bin\Debug\net7.0\metodosADD.exe
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\bin\Debug\net7.0\metodosADD.deps.json
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\bin\Debug\net7.0\metodosADD.runtimeconfig.json
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\bin\Debug\net7.0\metodosADD.dll
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\bin\Debug\net7.0\metodosADD.pdb
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\obj\Debug\net7.0\metodosADD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\obj\Debug\net7.0\metodosADD.AssemblyInfoInputs.cache
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\obj\Debug\net7.0\metodosADD.AssemblyInfo.cs
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\obj\Debug\net7.0\metodosADD.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\obj\Debug\net7.0\metodosADD.dll
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\obj\Debug\net7.0\refint\metodosADD.dll
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\obj\Debug\net7.0\metodosADD.pdb
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\obj\Debug\net7.0\metodosADD.genruntimeconfig.cache
+C:\Users\Nicolas\documents\fatec\Csharp\strings\metodosADD\obj\Debug\net7.0\ref\metodosADD.dll
