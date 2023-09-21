@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\editorhtml\\editorHTML.csproj": {}
+    "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\datas\\estudandodata\\estudandoData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\editorhtml\\editorHTML.csproj": {
+    "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\datas\\estudandodata\\estudandoData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\editorhtml\\editorHTML.csproj",
-        "projectName": "editorHTML",
-        "projectPath": "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\editorhtml\\editorHTML.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\datas\\estudandodata\\estudandoData.csproj",
+        "projectName": "estudandoData",
+        "projectPath": "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\datas\\estudandodata\\estudandoData.csproj",
         "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\editorhtml\\obj\\",
+        "outputPath": "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\datas\\estudandodata\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

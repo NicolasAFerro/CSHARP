@@ -1,0 +1,14 @@
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\bin\Debug\net7.0\estudandoData.exe
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\bin\Debug\net7.0\estudandoData.deps.json
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\bin\Debug\net7.0\estudandoData.runtimeconfig.json
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\bin\Debug\net7.0\estudandoData.dll
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\bin\Debug\net7.0\estudandoData.pdb
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\obj\Debug\net7.0\estudandoData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\obj\Debug\net7.0\estudandoData.AssemblyInfoInputs.cache
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\obj\Debug\net7.0\estudandoData.AssemblyInfo.cs
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\obj\Debug\net7.0\estudandoData.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\obj\Debug\net7.0\estudandoData.dll
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\obj\Debug\net7.0\refint\estudandoData.dll
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\obj\Debug\net7.0\estudandoData.pdb
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\obj\Debug\net7.0\estudandoData.genruntimeconfig.cache
+C:\Users\Nicolas\documents\fatec\csharp\datas\estudandodata\obj\Debug\net7.0\ref\estudandoData.dll
