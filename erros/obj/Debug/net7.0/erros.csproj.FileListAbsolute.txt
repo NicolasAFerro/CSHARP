@@ -1,0 +1,14 @@
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\bin\Debug\net7.0\erros.exe
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\bin\Debug\net7.0\erros.deps.json
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\bin\Debug\net7.0\erros.runtimeconfig.json
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\bin\Debug\net7.0\erros.dll
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\bin\Debug\net7.0\erros.pdb
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\obj\Debug\net7.0\erros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\obj\Debug\net7.0\erros.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\obj\Debug\net7.0\erros.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\obj\Debug\net7.0\erros.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\obj\Debug\net7.0\erros.dll
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\obj\Debug\net7.0\refint\erros.dll
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\obj\Debug\net7.0\erros.pdb
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\obj\Debug\net7.0\erros.genruntimeconfig.cache
+C:\Users\Nicolas\Documents\fatec\CSHARP\erros\obj\Debug\net7.0\ref\erros.dll

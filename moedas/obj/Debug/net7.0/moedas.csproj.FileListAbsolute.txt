@@ -1,0 +1,14 @@
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\bin\Debug\net7.0\moedas.exe
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\bin\Debug\net7.0\moedas.deps.json
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\bin\Debug\net7.0\moedas.runtimeconfig.json
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\bin\Debug\net7.0\moedas.dll
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\bin\Debug\net7.0\moedas.pdb
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\obj\Debug\net7.0\moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\obj\Debug\net7.0\moedas.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\obj\Debug\net7.0\moedas.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\obj\Debug\net7.0\moedas.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\obj\Debug\net7.0\moedas.dll
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\obj\Debug\net7.0\refint\moedas.dll
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\obj\Debug\net7.0\moedas.pdb
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\obj\Debug\net7.0\moedas.genruntimeconfig.cache
+C:\Users\Nicolas\Documents\fatec\CSHARP\moedas\obj\Debug\net7.0\ref\moedas.dll
