@@ -1,0 +1,14 @@
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\explorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\explorando.AssemblyInfoInputs.cache
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\explorando.AssemblyInfo.cs
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\explorando.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\bin\Debug\net7.0\explorando.exe
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\bin\Debug\net7.0\explorando.deps.json
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\bin\Debug\net7.0\explorando.runtimeconfig.json
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\bin\Debug\net7.0\explorando.dll
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\bin\Debug\net7.0\explorando.pdb
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\explorando.dll
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\refint\explorando.dll
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\explorando.pdb
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\explorando.genruntimeconfig.cache
+C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\ref\explorando.dll
