@@ -1,9 +1,11 @@
+
+//using Internal;
 using System; 
 using System.Collections.Generic; 
 using System.Linq; 
 using System.Threading.Tasks;
 
-namespace explorando.models{ 
+namespace explorando.Models{ 
   public class Curso{ 
 
     public string Nome { get; set; }
@@ -27,9 +29,24 @@ namespace explorando.models{
     } 
 
     public void ListarAlunos(){ 
+      Console.Clear();
+      //Concatenação
       Console.WriteLine($"alunos do curso de: {Nome}");
-      foreach(Pessoa aluno in Alunos){ 
+     /*  foreach(Pessoa aluno in Alunos){ 
         Console.WriteLine(aluno.NomeCompleto);
+      } */
+      
+      //++Concatenação++
+     /*  for(int i=0; i <Alunos.Count;i++){  
+        string texto = "N°" + i + " - " + Alunos[i].NomeCompleto;
+        Console.WriteLine(texto);
+        
+      } */
+
+      //++Interpolação++ Mais chique 
+      for(int i=0;i<Alunos.Count;i++){ 
+         string texto = $"N° {i+1}  -  {Alunos[i].NomeCompleto}";
+        Console.WriteLine(texto);
       }
     }
 

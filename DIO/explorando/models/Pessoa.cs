@@ -1,10 +1,11 @@
 using System; 
 using System.Collections.Generic; 
 using System.Linq; 
-using System.Threading.Tasks;
+using System.Threading.Tasks; 
+//using Internal;
 
 // lembrar de colocar o mesmo nome da pasta e caminhos.
-namespace explorando.models{ 
+namespace explorando.Models{ 
 
   public class Pessoa{ 
     public Pessoa(){ 
