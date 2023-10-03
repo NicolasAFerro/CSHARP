@@ -2,9 +2,6 @@
 using System.Data.SqlTypes;
 using System.Data.Common;
 using System.Data;
-//using Internal;
-//using Internal;
-//using Internal;
 using System.Runtime.Serialization;
 using System.Runtime.CompilerServices;
 using System.ComponentModel;
@@ -16,12 +13,82 @@ using System.Collections.Generic;
 using System.Linq; 
 using System.Threading.Tasks; 
 using System.Globalization;
+using System.Collections;
 
 namespace Program{ 
   public class meuApp{  
     static void Main(string[] args){   
-      //Console.Clear();
-      Pessoa p1=new Pessoa("nicolas", "ferro");
+      Console.Clear();
+
+      //++++Filas-Queue++++
+      //queue é uma classe e new está instanciando um novo objeto nela 
+      Queue<int> fila = new Queue<int>(); 
+
+      fila.Enqueue(2);
+      fila.Enqueue(4); 
+      fila.Enqueue(6); 
+      fila.Enqueue(8); 
+      foreach(int item in fila){ 
+        Console.WriteLine(item);
+      }
+      // sempre vai remover o primeiro elemento da fila;
+      Console.WriteLine($"removendo o elemento: {fila.Dequeue()}");  
+      fila.Enqueue(0); 
+        foreach(int item in fila){ 
+        Console.WriteLine(item);
+      }
+
+
+       //++throw+++ 
+      //new Excecao().Metodo1();
+
+
+   
+
+
+
+    /*   //+++Leitura de um arquivo+++ 
+      //quando vou ler um arquivo, cada linha pode ser retornada como uma string 
+      try{                // colocar aqui que vai aparecer as possiveis exceptionsNos métodos
+        string[] linhas = File.ReadAllLines("arquivos/arquivoLeitura.txt");
+        foreach (string linha in linhas){ 
+          Console.WriteLine(linha);
+        } 
+      }catch(DirectoryNotFoundException ex){ // ex é uma variavel //Exception é genérica; 
+        Console.WriteLine($"caminho da pasta não encontrado {ex.Message}");// vai pegar a mensagem de erro;
+
+      }
+      catch(FileNotFoundException ex){ // ex é uma variavel //Exception é genérica; 
+        Console.WriteLine($"arquivo não encontrado {ex.Message}");// vai pegar a mensagem de erro;
+
+      }
+      catch(Exception ex){ // ex é uma variavel //Exception é genérica; 
+        Console.WriteLine($"ocorreu uma exceção {ex.Message}");// vai pegar a mensagem de erro;
+
+      }finally{ // independente de ter acontecido uma exception ou não
+                // tipo fechar a conexão com o banco;
+        Console.WriteLine("chegou");
+      }
+      // exception vai cortar o fluxo, não sabe mais o que fazer
+      //try catch
+
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     /*  Pessoa p1=new Pessoa("nicolas", "ferro");
       Pessoa p2=new Pessoa(nome: "joão",sobrenome: "Silva");
 
       Curso cursoIngles= new Curso();
@@ -52,7 +119,7 @@ namespace Program{
                                 DateTimeStyles.None, 
                                 out DateTime data1);
       Console.WriteLine (data1);
-
+ */
 
 
 
