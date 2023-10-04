@@ -19,8 +19,99 @@ namespace Program{
   public class meuApp{  
     static void Main(string[] args){   
       Console.Clear();
-      
-      // ++++Dictionary+++
+
+    //++if ternario+++ 
+    int num =20;
+    bool parOuImpar=false;                  // igual excel
+    parOuImpar=num % 2 ==0;                //condicao verdadeira, condição falsa
+    Console.WriteLine($"o numero{num} é: " + (parOuImpar ? "par":"impar"));
+
+   /*  if(num%2==0)
+      Console.WriteLine("par");
+    else 
+      Console.WriteLine("impar"); */
+
+
+
+
+
+
+      /* //++desconstruindo um objeto++ 
+      // declarei um método de desconstrução na classe pessoa;
+
+      //aqui em construi
+      Pessoa p1= new Pessoa("nicolas","ferro");
+
+      //aqui eu desconstrui;
+      // coloca em variaveis separadas; por isso que o printf da certo
+      (string nome, string sobrenome)=p1;
+      Console.WriteLine($"{nome}+{sobrenome}"); */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      /* 
+      //++TUPLAS++ ACHO MELHOR CRIAR UMA STRUCT OU UMA CLASSE, MUITA GAMBIARRA ISSO AQUI
+                                            //tupla é o nome da variavel
+      (int id, string nome, string sobrenome,decimal valor) tupla=(24, "nicolas", "ferro",10.5M); 
+
+      //não consegue nomear objeto;
+      ValueTuple<int, string, string, decimal> outroExemplo = (24, "nicolas", "ferro",10.5M); 
+      var outroExemplo1 = Tuple.Create(24, "nicolas", "ferro",10.5M); 
+
+
+      Console.WriteLine($"id: {tupla.id}"); 
+      Console.WriteLine($"id: {tupla.Item1}");
+      Console.WriteLine($"nome: {tupla.nome}"); 
+      Console.WriteLine($"sobrenome: {tupla.sobrenome}"); 
+      Console.WriteLine($"decimal: {tupla.valor}");
+
+
+      // bom para fazer retorno de método ou função 
+      //nome da classe
+      LeituraArquivo arquivo = new LeituraArquivo();
+                                              // nome do método
+      var(sucesso, Linhas, qtdLinhas) =  arquivo.LerArquivo("arquivos/arquivoLeitura.txt");
+      if(sucesso){ 
+        Console.WriteLine("quantidade de linahs do arquivo: "+ qtdLinhas);
+        foreach( var linhas in Linhas)
+        Console.WriteLine(linhas);
+      }
+      else
+        Console.WriteLine("não foi possivel ler o arquivo"); 
+      /*  caso por exemplo, me retorne um monte de coisa, mas eu só quero
+      duas informações, coloco o _ que ignora
+      var(sucesso, Linhas, _) =  arquivo.LerArquivo("arquivos/arquivoLeitura.txt"); */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      /* // ++++Dictionary+++
       //minha chave e meu dado são strings
       // garente que cada elemento seja unico
       Dictionary<string, string> estados = new Dictionary<string, string>();
@@ -41,7 +132,7 @@ namespace Program{
         Console.WriteLine("chave existente");
       else 
         Console.WriteLine("chave inexistente");
-      Console.WriteLine($"Acessando elemento:  {estados["MG"]}");
+      Console.WriteLine($"Acessando elemento:  {estados["MG"]}"); */
 
 
 

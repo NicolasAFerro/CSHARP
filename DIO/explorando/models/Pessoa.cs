@@ -16,13 +16,19 @@ namespace explorando.Models{
       Nome=nome; 
       Sobrenome=sobrenome;
     }
+
+    public void Deconstruct(out string nome, out string sobrenome){ 
+      nome=Nome;
+      sobrenome=Sobrenome;
+
+    }
     
 
     // construindo uma propriedade
     private int _idade;// isso aqui é um campo
     private string _nome;// POO. Encapsulamento campo que vai armazenar o atributo nome;
     // Private, unico que consegue armazenar /modificar é a propria classe
-    // criei uma variavel do tipo nome, que eu atribuiu valores atraves das 
+    // criei uma variavel do tipo _nome, que eu atribuiu valores atraves das 
     // propriedade.Com isso estou validando minha classe antes de atribuir um valor a ela;
     public string Nome { 
       // get => _nome.ToUpper() se for simples. BodyExpression

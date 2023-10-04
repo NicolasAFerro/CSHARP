@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\dio\\explorando\\explorando.csproj": {}
+    "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\dio\\explorando\\explorando.csproj": {
+    "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\dio\\explorando\\explorando.csproj",
+        "projectUniqueName": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj",
         "projectName": "explorando",
-        "projectPath": "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\dio\\explorando\\explorando.csproj",
+        "projectPath": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj",
         "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolas\\documents\\fatec\\csharp\\dio\\explorando\\obj\\",
+        "outputPath": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
