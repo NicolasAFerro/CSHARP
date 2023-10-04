@@ -27,7 +27,7 @@ namespace explorando.Models{
     public string Nome { 
       // get => _nome.ToUpper() se for simples. BodyExpression
       get{ 
-        return _nome.ToUpper();
+        return _nome.ToUpper();//get é leitura
       }
       set{ //set é =(atribuição)
         if (value==""){ 
@@ -55,8 +55,6 @@ namespace explorando.Models{
     //+++++++++++++++++++++++++++++++++++++++++++++=
     //criar um método 
     // está dentro da classe Pessoa.
-
-
     public void Apresentar(){ 
       // aqui get
       Console.WriteLine($"nome:{NomeCompleto}, idade:{Idade}");

@@ -19,8 +19,80 @@ namespace Program{
   public class meuApp{  
     static void Main(string[] args){   
       Console.Clear();
+      
+      // ++++Dictionary+++
+      //minha chave e meu dado são strings
+      // garente que cada elemento seja unico
+      Dictionary<string, string> estados = new Dictionary<string, string>();
+                // o primeiro elemento tem que ser unico;
+      estados.Add("SP", "SÃO PAULO");
+      estados.Add("BA", "BAHIA"); 
+      estados.Add("MG", "MINAS GERAIS");
 
-      //++++Filas-Queue++++
+      foreach(var item in estados)
+        Console.WriteLine($"chave: {item.Key}, valor: {item.Value}");
+      //estados.Add("BA", "AMAZONAS");// CHAVE NUNCA PODE SER DUPLICADA
+      Console.WriteLine("+++++++++++++++");
+      estados.Remove("BA"); 
+      foreach(var item in estados)
+        Console.WriteLine($"chave: {item.Key}, valor: {item.Value}");
+      string chave = "BA";
+      if(estados.ContainsKey(chave))
+        Console.WriteLine("chave existente");
+      else 
+        Console.WriteLine("chave inexistente");
+      Console.WriteLine($"Acessando elemento:  {estados["MG"]}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* //+++Pilhas+++
+    Stack<int> pilha = new Stack<int>();
+    pilha.Push(4); 
+    pilha.Push(6); 
+    pilha.Push(8); 
+    pilha.Push(10);
+    // sempre vai remover o ultimo elemento da pilha LIFO;
+    foreach(var item in pilha)
+      Console.WriteLine(item);
+    Console.WriteLine($"removendo um elemento do topo: {pilha.Pop()}");  
+    pilha.Push(23);
+    foreach(var item in pilha)
+      Console.WriteLine(item); */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      /* //++++Filas-Queue++++
       //queue é uma classe e new está instanciando um novo objeto nela 
       Queue<int> fila = new Queue<int>(); 
 
@@ -36,16 +108,11 @@ namespace Program{
       fila.Enqueue(0); 
         foreach(int item in fila){ 
         Console.WriteLine(item);
-      }
+      } */
 
 
        //++throw+++ 
       //new Excecao().Metodo1();
-
-
-   
-
-
 
     /*   //+++Leitura de um arquivo+++ 
       //quando vou ler um arquivo, cada linha pode ser retornada como uma string 
