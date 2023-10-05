@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj": {}
+    "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj": {
+    "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj",
         "projectName": "explorando",
-        "projectPath": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj",
+        "projectPath": "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj",
         "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\obj\\",
+        "outputPath": "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

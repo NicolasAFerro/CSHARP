@@ -1,5 +1,4 @@
-﻿
-using System.Data.SqlTypes;
+﻿using System.Data.SqlTypes;
 using System.Data.Common;
 using System.Data;
 using System.Runtime.Serialization;
@@ -8,19 +7,63 @@ using System.ComponentModel;
 using System.Security.AccessControl;
 using System;
 using explorando.Models;  
-
 using System.Collections.Generic; 
 using System.Linq; 
 using System.Threading.Tasks; 
 using System.Globalization;
 using System.Collections;
+using Newtonsoft.Json;//USAR DO PACOTE NUGET
 
 namespace Program{ 
   public class meuApp{  
     static void Main(string[] args){   
       Console.Clear();
 
-    //++if ternario+++ 
+
+  //##DESERIALIZAÇÃO## 
+  //estudar o conteudo do arquivo. Ver as propriedades
+  string conteudoArquivo = File.ReadAllText("arquivos/vendas.json");
+  //como eu tenho um array, tbm tenho que representar um array; 
+  List<Deserializacao> listaVendas = JsonConvert.DeserializeObject<List<Deserializacao>>(conteudoArquivo); 
+  foreach(Deserializacao venda in listaVendas){ 
+    Console.WriteLine($"ID:{venda.Id}; produto:{venda.Produto};" + //fazer com o mesmo nome, pois estava PRODUCT E NÃO ESTAVA LENDO;
+                      $"PREÇO: {venda.Preco}; data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
+  }
+
+
+
+
+
+
+
+
+  /* //###SERIALIZAÇÃO### 
+  //criar classe vendas
+  //using Newtonsoft.Json;//USAR DO PACOTE NUGET
+  //elemento tipo de venda; se chama listaVendas; Nova instancia; List<Vendas>() está vazia
+   List<Vendas> listaVendas = new List<Vendas>();
+  /*  após a execução dessa linha de código, você terá uma variável 
+   chamada listaVendas 
+   que é uma lista vazia pronta para armazenar objetos do tipo Vendas 
+  DateTime dataAtual= DateTime.Now;
+  Vendas v1 =new Vendas(1, "caneta", 1.25M, dataAtual);
+  Vendas v2 = new Vendas(23, "Saas", 130.45M, dataAtual);
+  // aqui eu tenho duas vendas. Como passar todas? 
+  //criar uma coleção // array
+  listaVendas.Add(v1); 
+  listaVendas.Add(v2);
+
+  string serializado =JsonConvert.SerializeObject(v1);// ver documentação;  
+  string serializado2 =JsonConvert.SerializeObject(v1, Formatting.Indented); 
+  string serializado3 =JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+  File.WriteAllText("Arquivos/vendas.json", serializado3);// criou o arquivo Json em arquivos;
+  Console.WriteLine(serializado);
+  Console.WriteLine(serializado2); 
+   Console.WriteLine(serializado3);
+   //codeBeauty/json; verificar se está válido MINIFY XML(tags) */
+  //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++=
+
+   /*  //++if ternario+++ 
     int num =20;
     bool parOuImpar=false;                  // igual excel
     parOuImpar=num % 2 ==0;                //condicao verdadeira, condição falsa
@@ -29,7 +72,7 @@ namespace Program{
    /*  if(num%2==0)
       Console.WriteLine("par");
     else 
-      Console.WriteLine("impar"); */
+      Console.WriteLine("impar"); */ 
 
 
 
@@ -94,22 +137,7 @@ namespace Program{
       /*  caso por exemplo, me retorne um monte de coisa, mas eu só quero
       duas informações, coloco o _ que ignora
       var(sucesso, Linhas, _) =  arquivo.LerArquivo("arquivos/arquivoLeitura.txt"); */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
       /* // ++++Dictionary+++
       //minha chave e meu dado são strings
@@ -134,27 +162,7 @@ namespace Program{
         Console.WriteLine("chave inexistente");
       Console.WriteLine($"Acessando elemento:  {estados["MG"]}"); */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++=
 
     /* //+++Pilhas+++
     Stack<int> pilha = new Stack<int>();
@@ -169,19 +177,6 @@ namespace Program{
     pilha.Push(23);
     foreach(var item in pilha)
       Console.WriteLine(item); */
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       /* //++++Filas-Queue++++
       //queue é uma classe e new está instanciando um novo objeto nela 
@@ -200,11 +195,12 @@ namespace Program{
         foreach(int item in fila){ 
         Console.WriteLine(item);
       } */
+    //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
+      //####EXCEPTION###
        //++throw+++ 
       //new Excecao().Metodo1();
-
     /*   //+++Leitura de um arquivo+++ 
       //quando vou ler um arquivo, cada linha pode ser retornada como uma string 
       try{                // colocar aqui que vai aparecer as possiveis exceptionsNos métodos

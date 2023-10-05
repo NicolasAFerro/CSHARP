@@ -1,0 +1,15 @@
+[
+  {
+    "Id": 1,
+    "nome_produto": "caneta",
+    "Preco": 1.25,
+    "DataVenda": "2023-10-05T11:05:46.6262629-03:00"
+  },
+  {
+    "Id": 23,
+    "nome_produto": "Saas",
+    "Preco": 130.45,
+    "DataVenda": "2023-10-05T11:05:46.6262629-03:00"
+  }
+]
+//ISO 8601 PADRONIZA A DATA ENTRE SISTEMAS

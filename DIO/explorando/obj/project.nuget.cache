@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yXk7sFn/7obsPGwy37tF/XjKNjkPUB+HVF4k3tSHUo0aFTn72mblKnYtov8sdje8kGSCmj8ZbzLWgT8IhcneKQ==",
+  "dgSpecHash": "sc89I/XkyoE4fjMXWGFZUTygskKKYlccHbxE9RBFK3tKwgNzuwm1F5nqSFwGQcXLQFcd5pGUiSK5ILw6t+Lyvw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\explorando\\explorando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicolas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

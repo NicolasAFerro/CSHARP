@@ -12,3 +12,6 @@ C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\refint\e
 C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\explorando.pdb
 C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\explorando.genruntimeconfig.cache
 C:\Users\Nicolas\documents\fatec\csharp\dio\explorando\obj\Debug\net7.0\ref\explorando.dll
+C:\Users\Nicolas\Documents\fatec\CSHARP\DIO\explorando\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Nicolas\Documents\fatec\CSHARP\DIO\explorando\obj\Debug\net7.0\explorando.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\fatec\CSHARP\DIO\explorando\obj\Debug\net7.0\explorando.csproj.CopyComplete
