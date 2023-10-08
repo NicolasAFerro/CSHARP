@@ -1,0 +1,102 @@
+####PROCESSOS DE SOFTWARE #### 
+
+/Roteiro/Tarefas necessárias/Ciclo de Vida
+ENGENHARIA DE SOFTWARE(veio Bernardão)
+
+Bernardão KISS-keep it simple, stupid; 
+	MAKE A PLAN, STUPID; fluxo de processos
+
+MODELOS TRADICIONAIS(PRESCRITIVOS)-taylor-ordem e consistencia
+	metodologia de desenvolvimento-bernardão-cascata
+		uma etapa só executada depois do outro
+		comunicação-plan-modelagem-construção-entrega; 
+				  UML-arquitetura-DBA
+		muita documentação-Requisitos
+
+MODELO INCREMENTAL
+	Requisitos definidos mas não refinados; 
+	cada incremento tem sua cascata; 
+ 
+MODELO EVOLUCIONARIO  
+	projetos grades 
+	++prototipagem++ (FAZER FIGMA-código é a ultima coisa-esqueleto-BIGjeff);
+		refinar requisitos
+		deixa de considerar a qualidade global-pois está funcional;
+	++espiral++ 
+		sistemas complexos 
+		[prototipação + cascata] =parece o incremental;
+MODELO CONCORRENTE 
+
+MODELOS ESPECIALIZADOS 
+	--Baseado em componentes 
+		interfaces definidas
+		pouco tempo de modelagem-encaixando(windows forms?)
+ 
+MODELO MÉTODOS FORMAIS
+	--Análise matemática 
+	  estatistica-descobre ambiguidade-conhecimento 
+	sistemas de tempos reais-aviões
+	engenharia de software de sala limpa 
+
+
+MODELO ORIENTADO A ASPECTOS
+	Paradigma orientado a aspectos; PONTOS DE INTERESSE DA APLICAÇÃO
+	parecido com diagrama de casos de usos?
+
+=PROCESSO UNIFICADO# 
+	UML-CASOS DE USO-LEVANTAMENTO DE REQUISITOS 
+	hoje o uml devido ao agil já está em desuso; 
+	-Arquitetura iterativo e incremental;
+	--fases: 
+	  -cascata(loop);
+	  -VERSÃO 10.0
+	  -volta o loop; 
+	  -versão 10.1;
+
+###DESENVOLVIMENTO AGIL####
+	ERRAR ANTES PARA CORRIGIR ANTES
+	
+MANIFESTO AGIL-17caras em utah 
+
+12PRINCIPIOS AGEIS 
+
+EXTREME PROGRAMMING.org
+	orientação a objetos
+	Mais para desenvolvimento de software do que ferramenta de gestão
+	planning poker-ouvir quem vai desenvolver
+		^ 
+		priorização de histórias 
+	KISS-CARTÕES BERNARDÃO (classe responsabilidade colaborador); 
+	APERFEIÇOAMENTO - REFATORAÇÃO - TDD
+
+BÁSICO SCRUM 
+	rugby 
+	sprints 
+	feedback
+	pequenas entregas constantemente
+Modelos ageis existentes: 
+	métodos de sistemas dinâmicos-pouco tempo-pareto 80/20;
+
+#TESTES NO MUNDO ÁGIL
+	para cada atividade-há uma de teste
+	requisitos funcionais e não funcionais
+	vai testar diferente;
+	testes de performace-tempo real 
+	testes exploratórios; 
+	Análise de risco; 
+	relatórios de defeitos; 
+	FOCO-testes de unidade e teste de aceite/Piramide de testes
+	maturidade para receber o feedback
+Métodos de testes 
+	TDD-teste driven developmente-desenvolvimento orientado a testes;
+	o teste começa falho
+	fica tudo verde-ai passou->refatora;
+	INVERTENDO O PENSAMENTO 
+	ATDD-orientado a testes de aceite; 
+	BDD-orientado a comportamento;abstração; 
+	QUADRANTES DE TESTES AGEIS
+	
+	
+
+	
+	
