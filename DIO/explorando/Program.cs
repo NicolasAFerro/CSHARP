@@ -195,6 +195,8 @@ namespace Program{
         foreach(int item in fila){ 
         Console.WriteLine(item);
       } */
+
+      //int[] nome = new int[5]
     //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 

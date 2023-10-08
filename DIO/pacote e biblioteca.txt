@@ -1,0 +1,42 @@
+
+
+
+Em resumo, enquanto bibliotecas fornecem funcionalidades específicas que você pode usar em seus programas, os pacotes são estruturas de organização que ajudam a agrupar e organizar seu código, geralmente em níveis mais granulares do que bibliotecas. Ambos são importantes para a prática de desenvolvimento de software, mas eles têm propósitos e usos ligeiramente diferentes. 
+Pacote:
+
+	Um pacote é uma maneira de organizar e agrupar código relacionado em uma estrutura de diretórios e arquivos. Geralmente, os pacotes são usados em linguagens de programação orientadas a objetos para organizar classes e módulos relacionados.
+	Os pacotes são uma forma de organizar o código em unidades lógicas e podem conter vários módulos, subpacotes e recursos relacionados.
+	Eles ajudam a evitar conflitos de nomes e tornam o código mais organizado e modular. 
+
+Biblioteca:
+
+	Uma biblioteca é um conjunto de funções, classes e recursos pré-desenvolvidos que podem ser usados por programadores para realizar tarefas específicas. Essas funções e classes são normalmente agrupadas em um único arquivo ou em vários arquivos relacionados.
+	Bibliotecas são frequentemente criadas para fornecer funcionalidades comuns e genéricas que podem ser usadas em diferentes programas. Por exemplo, uma biblioteca de matemática pode conter funções para cálculos trigonométricos, enquanto uma biblioteca de interface gráfica de usuário pode conter componentes para criar janelas e botões.
+
+
+cria um pacote que envia email e em cada projeto eu faço uma referencia. Ajuda em integrações.REPETICAO DE CODIGO, REUSO, FUNÇÕES
+
+
+#####NUGET#### 
+
+É o gerenciador de pacotes C# .net
+Desenvolvedores compartilham por ali.
+ANTES DE FAZER ALGUMA COISA, VEJA SE NÃO TEM NO PACOTE
+
+para instalar um PACOTE. VAMOS EXPLORAR NO SITE DO NuGet pegar por CLI. Caso esteja no VS
+pegar no yooutube como que faz para instalar o pacote lá 
+dotnet add package Newtonsoft.Json --version 13.0.3 
+dotnet add package Newtonsoft.Json 
+deixa sem a versão que instala a ultima já
+
+fica no .csproj
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+
+##SERIALIZAÇÃO##
+Transformar objetos em um fluxo de bytes para seu armazenamento ou transmissão 
+
+
+
