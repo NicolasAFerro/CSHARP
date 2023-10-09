@@ -11,7 +11,8 @@ namespace POO.Models
         public string Nome { get; set; }
         public int Idade { get; set; }
 
-        public void Apresentar(){ 
+        public virtual void Apresentar(){ 
+            //     ^ significa que este método pode ser sobescrito se assim a classe desejar
             Console.WriteLine($"meu nome é {Nome} e tenho {Idade} anos");
         }
     }
