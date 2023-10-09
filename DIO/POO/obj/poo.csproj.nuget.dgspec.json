@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\poo\\poo.csproj": {}
+    "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\POO\\poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\poo\\poo.csproj": {
+    "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\POO\\poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\poo\\poo.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\POO\\poo.csproj",
         "projectName": "poo",
-        "projectPath": "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\poo\\poo.csproj",
+        "projectPath": "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\POO\\poo.csproj",
         "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\poo\\obj\\",
+        "outputPath": "C:\\Users\\Nicolas\\Documents\\fatec\\CSHARP\\DIO\\POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
