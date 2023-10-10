@@ -6,6 +6,10 @@ namespace POO{
   class Program{ 
     static void Main(string[] args){ 
       Console.Clear();
+      /* //### Métodos da Class object-sempre que cria uma classe já tem tudo
+      Computador c = new Computador();
+      c.ToString */
+
 
     //###CLASSE ABSTRATA 
     Conta c = new Corrente();
