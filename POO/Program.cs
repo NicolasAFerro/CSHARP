@@ -1,17 +1,41 @@
 ﻿using System.Reflection;
 using POO.Models; 
+using POO.Interfaces;
 
 
 namespace POO{ 
   class Program{ 
     static void Main(string[] args){ 
-      Console.Clear();
+      Console.Clear(); 
+
+      //###INTERFACES
+      //uma interface não é instanciavel é um contrato 
+
+      // recebe minha classe calculadora
+      ICalculadora calc = new Calculadora();
+      Console.WriteLine(calc.Multiplicar(3,9));
+      // calculadora implementa interface, se for fazer ICalculadora calc = new Contrato() da erro;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       /* //### Métodos da Class object-sempre que cria uma classe já tem tudo
       Computador c = new Computador();
       c.ToString */
 
 
-    //###CLASSE ABSTRATA 
+    /* //###CLASSE ABSTRATA 
     Conta c = new Corrente();
     c.Creditar(500);
     c.ExibirSaldo();
@@ -19,7 +43,7 @@ namespace POO{
     Pessoa p1 = new Pessoa("joão");// passou a exigir que passe como argumento o nome
     Aluno a1 = new Aluno("pedro"); 
     a1.Apresentar();
-
+ */
 
 
 
