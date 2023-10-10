@@ -8,6 +8,12 @@ namespace POO.Models
 {
     public class Pessoa
     {
+        //CONSTRUTOR POR HERANÇA
+        //Nome ser obrigatório smpre que alguem instanciar pessoa, deve ser através do construtor
+        // acho melhor deixar assim obrigatório, e não deixar"se eu quiser posso inserir a idade"
+        public Pessoa(string nome){ 
+            Nome=nome;
+        }
         public string Nome { get; set; }
         public int Idade { get; set; }
 

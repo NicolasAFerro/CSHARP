@@ -11,7 +11,10 @@ namespace POO{
     Conta c = new Corrente();
     c.Creditar(500);
     c.ExibirSaldo();
-
+    //####CONTRUTOR POR HERANÇA 
+    Pessoa p1 = new Pessoa("joão");// passou a exigir que passe como argumento o nome
+    Aluno a1 = new Aluno("pedro"); 
+    a1.Apresentar();
 
 
 

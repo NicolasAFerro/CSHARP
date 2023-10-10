@@ -8,6 +8,11 @@ namespace POO.Models
 {
     public class Professor : Pessoa
     {
+        //Também quebrou a herança, igual Aluno 
+        //PROFESSOR TAMBÉM EXIGE NOME, ASSIM COMO PESSOA
+        public Professor(string nome): base (nome){ 
+                                    //    ^ estou passando para a classe pai
+        }
         public decimal Salario { get; set; }
 
         public override void Apresentar(){

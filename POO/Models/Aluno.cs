@@ -8,6 +8,11 @@ namespace POO.Models
 {
     public class Aluno : Pessoa //herdando de pessoa
     {
+        //O aluno quebrou, pois não tem o método construtor.
+        //Para resolver:  
+        public Aluno(string nome): base (nome){ 
+                                //    ^ estou passando para a classe pai
+        }
         public decimal Nota { get; set; }
 
         public override void Apresentar(){ 
