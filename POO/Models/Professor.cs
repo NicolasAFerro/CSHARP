@@ -11,7 +11,22 @@ namespace POO.Models
         public decimal Salario { get; set; }
 
         public override void Apresentar(){
+            //      ^ sobrescreveu a classe apresentar de pessoa
             Console.WriteLine($"meu nome é  professor {Nome}, tenho {Idade} anos e meu salario é{Salario}");
         }
     }
 }
+
+//POLIMORFISMO EM TEMPO DE EXECUÇÃO
+/* // class Calcular
+    {
+        public int Soma(int num1, int num2)
+        {
+            return (num1 + num2);
+        }
+       
+        public int Soma(int num1, int num2, int num3)
+        {
+            return (num1 + num2 + num3);
+        }
+    } */

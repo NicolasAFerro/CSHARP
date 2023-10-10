@@ -7,7 +7,21 @@ namespace POO{
     static void Main(string[] args){ 
       Console.Clear();
 
-      ///###HERANÇA
+    //###CLASSE ABSTRATA 
+    Conta c = new Corrente();
+    c.Creditar(500);
+    c.ExibirSaldo();
+
+
+
+
+
+
+
+
+
+
+     /*  ///###HERANÇA
       Aluno a1 = new Aluno(); 
       a1.Nome="maria";
       a1.Idade=13; 
@@ -19,7 +33,7 @@ namespace POO{
       p1.Nome="pedro";
       p1.Idade=35; 
       p1.Salario=1000M;
-      p1.Apresentar();
+      p1.Apresentar(); */
       
 
 
