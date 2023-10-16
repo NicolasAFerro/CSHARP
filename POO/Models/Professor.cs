@@ -18,7 +18,7 @@ namespace POO.Models
         public decimal Salario { get; set; }
 
         public /* sealed */ override void Apresentar(){
-            //      ^ sobrescreveu a classe apresentar de pessoa
+            //                  ^ sobrescreveu a classe apresentar de pessoa
             Console.WriteLine($"meu nome é  professor {Nome}, tenho {Idade} anos e meu salario é{Salario}");
         }
     }
