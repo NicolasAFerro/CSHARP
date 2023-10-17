@@ -23,7 +23,7 @@ namespace API.Controllers
         public IActionResult Create(Contatos contato){ 
             _context.Add(contato);
             _context.SaveChanges(); 
-            return Ok(contato);
+            return CreatedAtAction(nameof(ObterPorID), new{id=contato.Id},contato);
         }
 
         [HttpGet("{id}")]
