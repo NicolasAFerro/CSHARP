@@ -109,11 +109,11 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao"))
 
 os comandos sql são automáticos, mas os de criação de tabela são manuais
 (dizer ao entity que tem alterações no código que precisam ser refletidas no DB)
-dotnet-ef migrations add CriacaoTabelaContato
+<strong>dotnet-ef migrations add CriacaoTabelaContato<strong>
 -Cria uma pasta chamada migrations
 
 - nos só criamos a migration, agora temos que aplicar:
-  dotnet-ef database update
+  <strong>dotnet-ef database update<strong>
 
   //se estiver outro banco ai é outra coisa ^o banco que ele vai trabalhar(nome)
   // ^entity vai fazer para ti iniciar só com a autenticação do windowns(usuario e senha se remoto)
@@ -147,4 +147,10 @@ recebe o = private readonly AgendaContext \_context (permite acessar o db)
 
 # dotnet-ef migrations add CriacaoTabelaContato
 
+^aqui lembrar de colocar o nome da sua tabela
+
 # dotnet-ef database update
+
+    "ConexaoPadrao": "Server=localhost\\sqlexpress02; Initial Catalog=Tarefas; Integrated Security=SSPI;TrustServerCertificate=True"
+
+    COLOCAR O NOME DO SEU DB
